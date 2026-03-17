@@ -13,20 +13,20 @@ We define it as a set of practices that combines software development and IT ope
 - [Programming Language](programming_languages.md)
   - Learn Ruby
   - Learn Rust
-- [Module 0: Basic Requirements](step_0.md)
+- [Module 0: Basic Requirements](module_0.md)
   - Bash
   - Git
   - Linux
-- [Module 1: Infrastructure](step_1.md)
+- [Module 1: Infrastructure](module_1.md)
   - PanOS Firewall
   - VMWare
-- [Module 2: Configuration Management](step_2.md)
-- [Module 3: CI/CD (Continuous Integration and Continuous Delivery)](step_3.md)
-- [Module 4: Monitoring and Logging](step_4.md)
+- [Module 2: Configuration Management](module_2.md)
+- [Module 3: CI/CD (Continuous Integration and Continuous Delivery)](module_3.md)
+- [Module 4: Monitoring and Logging](module_4.md)
   - CheckMK
-- [Module 5: Public Clouds](step_5.md)
+- [Module 5: Public Clouds](module_5.md)
   - AWS
   - Google Cloud
-- [Module 5.5: Containers](step_5_5.md)
-- [Module 6: Getting familiar with Agile software development](step_6.md)
+- [Module 5.5: Containers](module_5_5.md)
+- [Module 6: Getting familiar with Agile software development](module_6.md)
 - [Module 7: 3rd Tier System Administation](module_7.md)
